@@ -10,12 +10,6 @@
 
 <dev style="display:block;">
 <img width="55%" height="200px" align="right" style="display: block;" alt="Github" src="Images/git-header.svg" />
-
-- 🔭 I’m currently working on  Sepas Holding
-  
-- 🌱 I’m currently learning Data Engineering, Java, Python, SQL/NOSQL Databases
-  
-- 💬 Ask me about SQL/NOSQL Databases, C#
   
 - 📫 How to reach me **JenabiReza@gmail.com**
 </dev>
