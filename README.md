@@ -28,9 +28,6 @@
 <a href="https://twitter.com/Reza_Jenabi" target="_blank">
 <img src=Images/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/RezaJenabi" target="_blank">
-<img src=Images/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/RezaJenabi" target="_blank">
 <img src=Images/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -50,8 +47,7 @@
 &emsp;
 <div>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="Images/csharp-original.svg" alt="C#" height="75" /></a>  
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="Images/dotnetcore.png" alt=".Net Core" height="75" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="Images/java-original-wordmark.svg" alt="Java" height="75" /></a>  
+<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="Images/dotnetcore.png" alt=".Net Core" height="75" /></a>    
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="Images/python-original.svg" alt="Python" height="75" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="Images/cplusplus-original.svg" alt="C++" height="75" /></a>  
 </div>
@@ -62,9 +58,6 @@
 <div>  
 <a href="~" target="_blank"><img style="margin: 10px" src="Images/microsoft-sql-server.png" alt="sql server" height="75" /></a>  
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="Images/redis-original-wordmark.svg" alt="Redis" height="75" /></a>  
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="Images/oracle-original.svg" alt="Oracle" height="75" /></a>  
-<a href="https://hadoop.apache.org/" target="_blank"><img style="margin: 10px" src="Images/apache_hadoop-icon.svg" alt="Hadoop" height="75" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="Images/graphql.png" alt="GraphQL" height="75" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="Images/postgresql-original-wordmark.svg" alt="PostgreSQL" height="75" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="Images/mongodb-original-wordmark.svg" alt="MongoDB" height="75" /></a>  
 </div>
